@@ -1,6 +1,6 @@
 ### ✨👋 Hello 👋✨
 
- My name is **Saumya Dixit**. I am a software developer fron India.
+ My name is **Saumya Dixit**. I am a software developer from India.
 
 ---
 
