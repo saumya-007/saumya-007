@@ -4,7 +4,7 @@
 
 ---
 
-🔭 I’m currently working as a backend developer primarily contributing in developing microservices and working with apache solr and cockroachdb.<br>
+🔭 I’m currently working as a backend developer primarily contributing to developing microservices in node.js working with cockroachdb.<br>
 🌱 Along with that am also learning React.<br>
 👯 I’m looking to collaborate on various full stack proejcts.<br>
 🤔 I’m looking forward to help as much as i can in as many projects i can.<br>
